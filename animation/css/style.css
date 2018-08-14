@@ -1,0 +1,17 @@
+.bike-front {
+margin-top: -1px;
+}
+
+.bike-back  {
+  /* position: absolute;
+  display: block */
+
+}
+
+.wheel {
+  /* position: absolute;
+  display: block */
+  margin-top: 136px;
+  margin-left: -88px;
+  z-index: -3;
+}
